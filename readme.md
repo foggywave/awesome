@@ -73,7 +73,7 @@
 - [Decentralized Systems](#decentralized-systems)
 - [Miscellaneous](#miscellaneous)
 
-
+[English](README.md) | [中文](README-zh.md)
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - JavaScript runtime built on Chrome's V8 JavaScript engine.
